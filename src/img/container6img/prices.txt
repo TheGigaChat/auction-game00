@@ -1,0 +1,10 @@
+babyChair: 49
+babyBath: 74
+playard: 73
+babyCar: 100
+duplo: 55
+raceCar: 16
+babyTrend: 99
+
+
+total: 466

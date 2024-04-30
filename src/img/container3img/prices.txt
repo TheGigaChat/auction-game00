@@ -1,0 +1,11 @@
+drums: 729
+midi: 79
+guitar: 100
+audio: 40
+string: 204
+light: 25
+piano: 849
+
+
+
+total: 2026

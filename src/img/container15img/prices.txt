@@ -1,0 +1,14 @@
+fry: 218
+donutMaker: 330
+hotDogHeater: 186
+soup: 109
+maximaRef: 550
+sausageFiller: 230
+IceCubeMaker: 644
+
+
+
+
+total: 2267
+
+"В популярном заведении питания установили новое оборудование, поэтому старое было выставлено на аукцион."

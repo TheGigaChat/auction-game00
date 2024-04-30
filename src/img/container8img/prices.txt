@@ -1,0 +1,12 @@
+moet: 69
+electricScooter: 399
+iphone15: 1379
+gamingChair: 219
+PS5: 449
+christmasTree: 329
+winterScarf: 4
+
+
+total: 2848
+
+""

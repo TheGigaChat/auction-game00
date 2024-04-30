@@ -1,0 +1,10 @@
+antiquePaint: 896
+antiqueChair: 381
+antiqueClock: 498
+antiqueSculpture: 199
+antiqueVase: 182
+antiqueLamp: 323
+antiqueSofa: 581
+
+
+total: 3060

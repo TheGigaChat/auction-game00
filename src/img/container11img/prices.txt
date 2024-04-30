@@ -1,0 +1,13 @@
+oldTable: 112
+oldWardrobe: 796
+oldBed: 999
+oldChair: 278
+oldMirror: 293
+oldKummut: 889
+oldPinguin: 32
+
+
+
+total: 3399
+
+"После ремонта на даче, владельцы решили продать старую мебель на аукционе."

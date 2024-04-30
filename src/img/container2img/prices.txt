@@ -1,0 +1,12 @@
+bag 73,
+luggage 240,
+sneakers 120,
+newBalance 178,
+saintLaurent 1001,
+caramel 420,
+glasses 467
+
+
+
+
+total: 2499

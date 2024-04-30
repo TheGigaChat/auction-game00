@@ -1,0 +1,10 @@
+dumbbells: 27
+run: 515
+bench: 133
+cardio: 453
+gym: 310
+ball: 13
+barbell: 38
+
+
+total: 1489

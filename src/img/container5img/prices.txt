@@ -1,0 +1,10 @@
+aku: 299
+generator: 329
+saw: 149
+lightWork: 349
+garden: 129
+radio: 229
+color: 890
+
+
+total: 2374

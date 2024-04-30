@@ -1,0 +1,2092 @@
+/* container2 */
+/* container2 */
+/* container2 */
+
+.bagSection {
+  position: absolute;
+  top: 360px;
+  left: 240px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bagSection img,
+#bagImg {
+  width: 140px;
+}
+
+:where(.bagSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.luggageSection {
+  position: absolute;
+  top: 370px;
+  left: 450px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.luggageSection img,
+#luggageImg {
+  width: 180px;
+}
+
+:where(.luggageSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.newBalanceSection {
+  position: absolute;
+  top: 550px;
+  left: 440px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.newBalanceSection img,
+#newBalanceImg {
+  width: 200px;
+}
+
+:where(.newBalanceSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.saintLaurentSection {
+  position: absolute;
+  top: 500px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.saintLaurentSection img,
+#saintLaurentImg {
+  width: 190px;
+}
+
+:where(.saintLaurentSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.caramelSection {
+  position: absolute;
+  top: 350px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.caramelSection img,
+#caramelImg {
+  width: 160px;
+}
+
+:where(.caramelSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.sneakersSection {
+  position: absolute;
+  top: 500px;
+  left: 250px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sneakersSection img,
+#sneakersImg {
+  width: 190px;
+}
+
+:where(.sneakersSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.glassesSection {
+  position: absolute;
+  top: 600px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.glassesSection img,
+#glassesImg {
+  width: 110px;
+}
+
+:where(.glassesSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container3 */
+/* container3 */
+/* container3 */
+
+.guitarSection {
+  position: absolute;
+  top: 230px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.guitarSection img,
+#guitarImg {
+  width: 350px;
+}
+
+:where(.guitarSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.audioSection {
+  position: absolute;
+  top: 530px;
+  left: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.audioSection img,
+#audioImg {
+  width: 140px;
+}
+
+:where(.audioSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.drumsSection {
+  position: absolute;
+  top: 280px;
+  left: 520px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.drumsSection img,
+#drumsImg {
+  width: 450px;
+}
+
+:where(.drumsSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.stringSection {
+  position: absolute;
+  top: 260px;
+  left: 320px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.stringSection img,
+#stringImg {
+  width: 320px;
+}
+
+:where(.stringSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.pianoSection {
+  position: absolute;
+  top: 310px;
+  left: 110px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pianoSection img,
+#pianoImg {
+  width: 450px;
+}
+
+:where(.pianoSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.midiSection {
+  position: absolute;
+  top: 650px;
+  left: 710px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.midiSection img,
+#midiImg {
+  width: 270px;
+}
+
+:where(.midiSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.lightSection {
+  position: absolute;
+  top: 550px;
+  left: 400px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.lightSection img,
+#lightImg {
+  width: 150px;
+}
+
+:where(.lightSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container4 */
+/* container4 */
+/* container4 */
+
+.cardioSection {
+  position: absolute;
+  top: 190px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cardioSection img,
+#cardioImg {
+  width: 330px;
+}
+
+:where(.cardioSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.runSection {
+  position: absolute;
+  top: 290px;
+  left: 360px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.runSection img,
+#runImg {
+  width: 400px;
+}
+
+:where(.runSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.dumbbellsSection {
+  position: absolute;
+  top: 570px;
+  left: 560px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dumbbellsSection img,
+#dumbbellsImg {
+  width: 120px;
+}
+
+:where(.dumbbellsSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.benchSection {
+  position: absolute;
+  top: 310px;
+  left: 580px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.benchSection img,
+#benchImg {
+  width: 490px;
+}
+
+:where(.benchSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gymSection {
+  position: absolute;
+  top: 310px;
+  left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.gymSection img,
+#gymImg {
+  width: 490px;
+}
+
+:where(.gymSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.ballSection {
+  position: absolute;
+  top: 510px;
+  left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ballSection img,
+#ballImg {
+  width: 110px;
+}
+
+:where(.ballSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.barbellSection {
+  position: absolute;
+  top: 520px;
+  left: 750px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.barbellSection img,
+#barbellImg {
+  width: 250px;
+}
+
+:where(.barbellSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container5 */
+/* container5 */
+/* container5 */
+
+.akuSection {
+  position: absolute;
+  top: 440px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.akuSection img,
+#akuImg {
+  width: 150px;
+}
+
+:where(.akuSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.generatorSection {
+  position: absolute;
+  top: 430px;
+  left: 550px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.generatorSection img,
+#generatorImg {
+  width: 340px;
+}
+
+:where(.generatorSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.sawSection {
+  position: absolute;
+  top: 360px;
+  left: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.sawSection img,
+#sawImg {
+  width: 370px;
+}
+
+:where(.sawSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.lightWorkSection {
+  position: absolute;
+  top: 540px;
+  left: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.lightWorkSection img,
+#lightWorkImg {
+  width: 170px;
+}
+
+:where(.lightWorkSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gardenSection {
+  position: absolute;
+  top: 470px;
+  left: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gardenSection img,
+#gardenImg {
+  width: 250px;
+}
+
+:where(.gardenSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.radioSection {
+  position: absolute;
+  top: 540px;
+  left: 760px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.radioSection img,
+#radioImg {
+  width: 70px;
+}
+
+:where(.radioSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.colorSection {
+  position: absolute;
+  top: 420px;
+  left: 390px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.colorSection img,
+#colorImg {
+  width: 350px;
+}
+
+:where(.colorSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container6 */
+/* container6 */
+/* container6 */
+
+.babyChairSection {
+  position: absolute;
+  top: 340px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.babyChairSection img,
+#babyChairImg {
+  width: 400px;
+}
+
+:where(.babyChairSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.babyBathSection {
+  position: absolute;
+  top: 330px;
+  left: 550px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.babyBathSection img,
+#babyBathImg {
+  width: 350px;
+}
+
+:where(.babyBathSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.babyCarSection {
+  position: absolute;
+  top: 340px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.babyCarSection img,
+#babyCarImg {
+  width: 370px;
+}
+
+:where(.babyCarSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.babyTrendSection {
+  position: absolute;
+  top: 450px;
+  left: -90px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.babyTrendSection img,
+#babyTrendImg {
+  width: 370px;
+}
+
+:where(.babyTrendSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.playardSection {
+  position: absolute;
+  top: 470px;
+  left: 270px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.playardSection img,
+#playardImg {
+  width: 500px;
+}
+
+:where(.playardSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.duploSection {
+  position: absolute;
+  top: 570px;
+  left: 900px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.duploSection img,
+#duploImg {
+  width: 180px;
+}
+
+:where(.duploSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.raceCarSection {
+  position: absolute;
+  top: 700px;
+  left: 200px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.raceCarSection img,
+#raceCarImg {
+  width: 100px;
+}
+
+:where(.raceCarSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container7 */
+/* container7 */
+/* container7 */
+
+.antiquePaintSection {
+  position: absolute;
+  top: 320px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.antiquePaintSection img,
+#antiquePaintImg {
+  width: 400px;
+}
+
+:where(.antiquePaintSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueChairSection {
+  position: absolute;
+  top: 370px;
+  left: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.antiqueChairSection img,
+#antiqueChairImg {
+  width: 410px;
+}
+
+:where(.antiqueChairSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueClockSection {
+  position: absolute;
+  top: 230px;
+  left: 350px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.antiqueClockSection img,
+#antiqueClockImg {
+  width: 500px;
+}
+
+:where(.antiqueClockSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueSculptureSection {
+  position: absolute;
+  top: 450px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.antiqueSculptureSection img,
+#antiqueSculptureImg {
+  width: 230px;
+}
+
+:where(.antiqueSculptureSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueVaseSection {
+  position: absolute;
+  top: 500px;
+  left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.antiqueVaseSection img,
+#antiqueVaseImg {
+  width: 300px;
+}
+
+:where(.antiqueVaseSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueLampSection {
+  position: absolute;
+  top: 450px;
+  left: 670px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.antiqueLampSection img,
+#antiqueLampImg {
+  width: 300px;
+}
+
+:where(.antiqueLampSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.antiqueSofaSection {
+  position: absolute;
+  top: 410px;
+  left: 230px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.antiqueSofaSection img,
+#antiqueSofaImg {
+  width: 500px;
+}
+
+:where(.antiqueSofaSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container8 */
+/* container8 */
+/* container8 */
+
+.iphone15Section {
+  position: absolute;
+  top: 490px;
+  left: 350px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.iphone15Section img,
+#iphone15Img {
+  width: 80px;
+}
+
+:where(.iphone15Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.electricScooterSection {
+  position: absolute;
+  top: 320px;
+  left: 550px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.electricScooterSection img,
+#electricScooterImg {
+  width: 300px;
+}
+
+:where(.electricScooterSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.christmasTreeSection {
+  position: absolute;
+  top: 150px;
+  left: 265px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.christmasTreeSection img,
+#christmasTreeImg {
+  width: 500px;
+}
+
+:where(.christmasTreeSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gamingChairSection {
+  position: absolute;
+  top: 250px;
+  left: 75px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gamingChairSection img,
+#gamingChairImg {
+  width: 250px;
+}
+
+:where(.gamingChairSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.PS5Section {
+  position: absolute;
+  top: 470px;
+  left: 475px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.PS5Section img,
+#PS5Img {
+  width: 210px;
+}
+
+:where(.PS5Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.moetSection {
+  position: absolute;
+  top: 530px;
+  left: 575px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.moetSection img,
+#moetImg {
+  width: 170px;
+}
+
+:where(.moetSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.winterScarfSection {
+  position: absolute;
+  top: 610px;
+  left: 375px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.winterScarfSection img,
+#winterScarfImg {
+  width: 160px;
+}
+
+:where(.winterScarfSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container9 */
+/* container9 */
+/* container9 */
+
+.huntingGunSection {
+  position: absolute;
+  top: 320px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.huntingGunSection img,
+#huntingGunImg {
+  width: 200px;
+}
+
+:where(.huntingGunSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.tentSection {
+  position: absolute;
+  top: 120px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tentSection img,
+#tentImg {
+  width: 800px;
+}
+
+:where(.tentSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.footwearSection {
+  position: absolute;
+  top: 570px;
+  left: 690px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.footwearSection img,
+#footwearImg {
+  width: 170px;
+}
+
+:where(.footwearSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.satteliteComunicatorSection {
+  position: absolute;
+  top: 590px;
+  left: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.satteliteComunicatorSection img,
+#satteliteComunicatorImg {
+  width: 100px;
+}
+
+:where(.satteliteComunicatorSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.headLampSection {
+  position: absolute;
+  top: 630px;
+  left: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.headLampSection img,
+#headLampImg {
+  width: 130px;
+}
+
+:where(.headLampSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.handleLampSection {
+  position: absolute;
+  top: 630px;
+  left: 430px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.handleLampSection img,
+#handleLampImg {
+  width: 110px;
+}
+
+:where(.handleLampSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.huntingBackpackSection {
+  position: absolute;
+  top: 530px;
+  left: 430px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.huntingBackpackSection img,
+#huntingBackpackImg {
+  width: 220px;
+}
+
+:where(.huntingBackpackSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container10 */
+/* container10 */
+/* container10 */
+
+.printerSection {
+  position: absolute;
+  top: 440px;
+  left: 430px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.printerSection img,
+#printerImg {
+  width: 200px;
+}
+
+:where(.printerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gamingTable1Section {
+  position: absolute;
+  top: 290px;
+  left: 530px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gamingTable1Section img,
+#gamingTable1Img {
+  width: 450px;
+}
+
+:where(.gamingTable1Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.laptop1Section {
+  position: absolute;
+  top: 320px;
+  left: 690px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.laptop1Section img,
+#laptop1Img {
+  width: 200px;
+  transform: skew(10deg);
+}
+
+:where(.laptop1Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.markerBoardSection {
+  position: absolute;
+  top: 230px;
+  left: 200px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.markerBoardSection img,
+#markerBoardImg {
+  width: 450px;
+}
+
+:where(.markerBoardSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gamingTable2Section {
+  position: absolute;
+  top: 390px;
+  left: -60px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gamingTable2Section img,
+#gamingTable2Img {
+  width: 460px;
+}
+
+:where(.gamingTable2Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.laptop2Section {
+  position: absolute;
+  top: 390px;
+  left: 80px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.laptop2Section img,
+#laptop2Img {
+  width: 180px;
+  transform: skew(-15deg);
+}
+
+:where(.laptop2Section p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.wifiRuuterSection {
+  position: absolute;
+  top: 370px;
+  left: 580px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wifiRuuterSection img,
+#wifiRuuterImg {
+  width: 170px;
+}
+
+:where(.wifiRuuterSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container11 */
+/* container11 */
+/* container11 */
+
+.oldMirrorSection {
+  position: absolute;
+  top: 440px;
+  left: 230px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldMirrorSection img,
+#oldMirrorImg {
+  width: 220px;
+}
+
+:where(.oldMirrorSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldBedSection {
+  position: absolute;
+  top: 240px;
+  left: 380px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldBedSection img,
+#oldBedImg {
+  width: 700px;
+}
+
+:where(.oldBedSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldWardrobeSection {
+  position: absolute;
+  top: 90px;
+  left: 530px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldWardrobeSection img,
+#oldWardrobeImg {
+  width: 900px;
+}
+
+:where(.oldWardrobeSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldKummutSection {
+  position: absolute;
+  top: 380px;
+  left: -70px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldKummutSection img,
+#oldKummutImg {
+  width: 460px;
+}
+
+:where(.oldKummutSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldPinguinSection {
+  position: absolute;
+  top: 340px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldPinguinSection img,
+#oldPinguinImg {
+  width: 160px;
+}
+
+:where(.oldPinguinSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldChairSection {
+  position: absolute;
+  top: 360px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldChairSection img,
+#oldChairImg {
+  width: 500px;
+}
+
+:where(.oldChairSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.oldTableSection {
+  position: absolute;
+  top: 360px;
+  left: -150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.oldTableSection img,
+#oldTableImg {
+  width: 500px;
+}
+
+:where(.oldTableSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container12 */
+/* container12 */
+/* container12 */
+
+.motoHerculesSection {
+  position: absolute;
+  top: 90px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.motoHerculesSection img,
+#motoHerculesImg {
+  width: 700px;
+}
+
+:where(.motoHerculesSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.motoCoverSection {
+  position: absolute;
+  top: 55px;
+  left: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.motoCoverSection img,
+#motoCoverImg {
+  width: 650px;
+  transform: rotate(-5deg);
+}
+
+:where(.motoCoverSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.helmetSection {
+  position: absolute;
+  top: 500px;
+  left: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.helmetSection img,
+#helmetImg {
+  width: 170px;
+  transform: rotate(-25deg);
+}
+
+:where(.helmetSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.motoJacketSection {
+  position: absolute;
+  top: 350px;
+  left: 820px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.motoJacketSection img,
+#motoJacketImg {
+  width: 200px;
+}
+
+:where(.motoJacketSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.motoClovesSection {
+  position: absolute;
+  top: 590px;
+  left: 420px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.motoClovesSection img,
+#motoClovesImg {
+  width: 150px;
+}
+
+:where(.motoClovesSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.motoEngineSection {
+  position: absolute;
+  top: 590px;
+  left: 80px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.motoEngineSection img,
+#motoEngineImg {
+  width: 270px;
+  transform: rotate(-90deg);
+}
+
+:where(.motoEngineSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container13 */
+/* container13 */
+/* container13 */
+
+.massageChairSection {
+  position: absolute;
+  top: 280px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.massageChairSection img,
+#massageChairImg {
+  width: 400px;
+}
+
+:where(.massageChairSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.cartSection {
+  position: absolute;
+  top: 280px;
+  left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cartSection img,
+#cartImg {
+  width: 400px;
+}
+
+:where(.cartSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.gipsSection {
+  position: absolute;
+  top: 390px;
+  left: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gipsSection img,
+#gipsImg {
+  width: 200px;
+}
+
+:where(.gipsSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.crpSection {
+  position: absolute;
+  top: 360px;
+  left: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.crpSection img,
+#crpImg {
+  width: 250px;
+}
+
+:where(.crpSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.handleMassagerSection {
+  position: absolute;
+  top: 560px;
+  left: 400px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.handleMassagerSection img,
+#handleMassagerImg {
+  width: 150px;
+  transform: rotate(90deg);
+}
+
+:where(.handleMassagerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.caneSection {
+  position: absolute;
+  top: 260px;
+  left: -100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.caneSection img,
+#caneImg {
+  width: 180px;
+}
+
+:where(.caneSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.pulceSection {
+  position: absolute;
+  top: 600px;
+  left: 550px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pulceSection img,
+#pulceImg {
+  width: 180px;
+  transform: rotate(90deg);
+}
+
+:where(.pulceSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container14 */
+/* container14 */
+/* container14 */
+
+.houseCoolerSection {
+  position: absolute;
+  top: 320px;
+  left: 650px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseCoolerSection img,
+#houseCoolerImg {
+  width: 280px;
+}
+
+:where(.houseCoolerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.houseRefrigeratorSection {
+  position: absolute;
+  top: 20px;
+  left: 240px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseRefrigeratorSection img,
+#houseRefrigeratorImg {
+  width: 600px;
+}
+
+:where(.houseRefrigeratorSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.houseTVSection {
+  position: absolute;
+  top: 320px;
+  left: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseTVSection img,
+#houseTVImg {
+  width: 430px;
+}
+
+:where(.houseTVSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.houseCoffeeSection {
+  position: absolute;
+  top: 500px;
+  left: 790px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseCoffeeSection img,
+#houseCoffeeImg {
+  width: 160px;
+}
+
+:where(.houseCoffeeSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.houseKnifeSection {
+  position: absolute;
+  top: 600px;
+  left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseKnifeSection img,
+#houseKnifeImg {
+  width: 300px;
+}
+
+:where(.houseKnifeSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.houseRobotSection {
+  position: absolute;
+  top: 550px;
+  left: 450px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.houseRobotSection img,
+#houseRobotImg {
+  width: 230px;
+}
+
+:where(.houseRobotSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* container15 */
+/* container15 */
+/* container15 */
+
+.maximaRefSection {
+  position: absolute;
+  top: 240px;
+  left: 600px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.maximaRefSection img,
+#maximaRefImg {
+  width: 420px;
+}
+
+:where(.maximaRefSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.IceCubeMakerSection {
+  position: absolute;
+  top: 290px;
+  left: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.IceCubeMakerSection img,
+#IceCubeMakerImg {
+  width: 380px;
+}
+
+:where(.IceCubeMakerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.frySection {
+  position: absolute;
+  top: 390px;
+  left: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.frySection img,
+#fryImg {
+  width: 380px;
+}
+
+:where(.frySection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.donutMakerSection {
+  position: absolute;
+  top: 390px;
+  left: 800px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.donutMakerSection img,
+#donutMakerImg {
+  width: 370px;
+}
+
+:where(.donutMakerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.hotDogHeaterSection {
+  position: absolute;
+  top: 440px;
+  left: -50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hotDogHeaterSection img,
+#hotDogHeaterImg {
+  width: 330px;
+}
+
+:where(.hotDogHeaterSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.soupSection {
+  position: absolute;
+  top: 440px;
+  left: 530px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.soupSection img,
+#soupImg {
+  width: 290px;
+}
+
+:where(.soupSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.sausageFillerSection {
+  position: absolute;
+  top: 520px;
+  left: 70px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sausageFillerSection img,
+#sausageFillerImg {
+  width: 290px;
+}
+
+:where(.sausageFillerSection p) {
+  color: transparent;
+  font-size: 3rem;
+}

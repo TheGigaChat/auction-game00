@@ -1,0 +1,9 @@
+coffe-machine: 199,
+blender: 299,
+microwave: 399,
+toster: 119,
+juice-maker: 239,
+popcorn-maker: 42,
+icecream-maker: 89,
+
+total: 1368

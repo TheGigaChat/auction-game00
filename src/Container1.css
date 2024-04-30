@@ -1,0 +1,354 @@
+.container1,
+.wrapDefault,
+.containerWinner {
+  height: 1280px;
+  position: relative;
+  background-image: url(./img/garage_door2.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  /* background-color: lightblue; */
+
+  display: grid;
+  grid-template-columns: 1fr 800px 1fr;
+  grid-template-rows: 1fr 1000px;
+}
+
+.auctionProps,
+.auctionPropsDefault,
+.auctionPropsWinner {
+  grid-column: 1 / 4; /* right */
+  grid-row: 1 / 2; /* bottom */
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  opacity: 0;
+}
+
+.teamName {
+  opacity: 0;
+}
+
+.team1-3,
+.team1-3Default,
+.team1-3Winner {
+  grid-column: 1 / 2;
+  grid-row: 2 / 3;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  opacity: 0;
+}
+
+.team1,
+.team2,
+.team3,
+.team4,
+.team5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+:is(.team1, .team2, .team3, .team4, .team5) section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#team1Earnings,
+#team2Earnings,
+#team3Earnings {
+  color: lightgreen;
+  margin-left: 0.5rem;
+}
+
+:where(#team4Earnings, #team5Earnings) {
+  color: transparent;
+  margin-left: 0.5rem;
+}
+
+.green {
+  color: lightgreen;
+}
+
+.items,
+.itemsDefault {
+  position: relative;
+  height: 1000px;
+  margin-bottom: 10rem;
+}
+
+.team4-5,
+.team4-5Default,
+.team4-5Winner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  color: transparent;
+}
+
+:is(.wrapDefault, .container1, .containerWinner) button {
+  align-self: flex-end;
+
+  font-weight: 900;
+  text-wrap: nowrap;
+  background-color: rgb(196, 196, 196);
+  color: #303030;
+  border: transparent;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin: 0 3rem 0 0;
+}
+
+:is(.wrapDefault, .container1, .containerWinner) button:hover {
+  background-color: white;
+  color: black;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* mutual animation of cell */
+
+.animation {
+  animation: cell 3s linear 1 forwards;
+}
+
+.numberAni {
+  display: block;
+  animation: price 3s linear 1 forwards;
+}
+
+@keyframes cell {
+  0% {
+    opacity: 1;
+  }
+  99% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    display: none;
+  }
+}
+
+@keyframes price {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+    color: lightgreen;
+    text-shadow: 5px 1px 15px black;
+  }
+  99% {
+    opacity: 0;
+    transform: translateY(-500px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-500px);
+    display: none;
+  }
+}
+
+/* IMAGES */
+/* IMAGES */
+/* IMAGES */
+
+.blenderSection {
+  position: absolute;
+  top: 500px;
+  left: 240px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 2;
+}
+
+.blenderSection img,
+#blenderImg {
+  width: 220px;
+}
+
+:where(.blenderSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.coffeeSection {
+  position: absolute;
+  top: 400px;
+  left: 480px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.coffeeSection img,
+#coffeeImg {
+  width: 150px;
+}
+
+:where(.coffeeSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.icecreamSection {
+  position: absolute;
+  top: 600px;
+  left: 70px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.icecreamSection img,
+#icecreamImg {
+  width: 170px;
+}
+
+:where(.icecreamSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.juiceSection {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.juiceSection img,
+#juiceImg {
+  width: 240px;
+}
+
+:where(.juiceSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.microwaveSection {
+  position: absolute;
+  top: 450px;
+  left: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.microwaveSection img,
+#microwaveImg {
+  width: 180px;
+}
+
+:where(.microwaveSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+.popcornSection {
+  position: absolute;
+  top: 380px;
+  left: 320px;
+  z-index: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.popcornSection img,
+#popcornImg {
+  width: 550px;
+}
+
+:where(.popcornSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+.tosterSection {
+  position: absolute;
+  top: 550px;
+  left: 420px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tosterSection img,
+#tosterImg {
+  width: 140px;
+}
+
+:where(.tosterSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
+/* winner section props */
+/* winner section props */
+
+.auctionPropsWinner,
+.team1-3Winner,
+#teamNameWinner {
+  opacity: 1;
+}
+
+.team4-5Winner {
+  color: white;
+}
+
+.team4-5Winner :is(#team4Earnings, #team5Earnings) {
+  color: lightgreen;
+}
+
+/* utilities */
+/* utilities */
+
+.appear {
+  color: white;
+  opacity: 1;
+  text-shadow: 5px 1px 15px black;
+}
+
+.disappear {
+  color: transparent;
+  opacity: 0;
+  text-shadow: 5px 1px 15px transparent;
+}
+
+.displayNone {
+  display: none;
+}
