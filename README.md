@@ -1,5 +1,5 @@
 
-# Auction Game for Birthday Party 01
+# Auction Game for Birthday Party 01 beta version
 
 This code was created to add some fun to your party.
 I have used react + javascript to create this project.
